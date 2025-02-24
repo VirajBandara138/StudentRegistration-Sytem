@@ -1,1 +1,1 @@
-# StudentRegistration-Sytem
+# StudentRegistration-OOP_Projects
